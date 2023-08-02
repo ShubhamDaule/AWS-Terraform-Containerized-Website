@@ -4,7 +4,8 @@
 set -eu
 
 # go back to the previous directory
-cd .. 
+cd ..
+cd website-ecs 
 
 # initialize terraform
 terraform init
